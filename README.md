@@ -9,9 +9,9 @@ Typography
 
 # Components
 
-Buttons and Indicators
-Navigation
-Layout
-Form Controls
-Popups and Modals
-Data Tables
+Buttons and Indicators ,
+Navigation ,
+Layout ,
+Form Controls ,
+Popups and Modals ,
+Data Tables .
