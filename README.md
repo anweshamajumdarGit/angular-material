@@ -15,3 +15,9 @@ Layout ,
 Form Controls ,
 Popups and Modals ,
 Data Tables .
+
+
+# commands
+
+ng add @angular/material
+
