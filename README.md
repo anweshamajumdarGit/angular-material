@@ -7,7 +7,7 @@ UI Component Library
 How to add angular material to an application
 Typography
 
-# Components
+# components
 
 Buttons and Indicators ,
 Navigation ,
